@@ -1,0 +1,24 @@
+quando for instanciar para fazer alguma solução, instancie somente uma vez
+
+se eu instanciar em todos os botoes e depois for fazer o resultado (nesse projeto foi a soma)
+vai sair com erro, pois oq foi atribuido naquele instancia (vaso), so vai ficar naquela instancia
+
+então junte tudo em um quando for instanciar, exemplo:
+
+ private void btnSomar_Click(object sender, EventArgs e)
+ {
+     Controle controle = new Controle();	//Chamei o objeto (Instanciei)
+     controle.num1 = txbPrimeiroNumero.Text;	//Atribui a instancia
+     controle.num2 = txbSegundoNumero.Text;	//tribui a insancia
+     controle.metodo = metodo;   	//Atribui novamente
+     controle.excutar(); 	//Executei a Instancia
+     
+     if (controle.mensagem.Equals(""))
+     {
+         lblResultado.Text = controle.resultado;	//Mostrara o resultado
+     }
+     else
+     {
+         lblResultado.Text = controle.mensagem;		// Mostrara mensagem de erro
+     }
+ }
