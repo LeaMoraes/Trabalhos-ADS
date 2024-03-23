@@ -9,29 +9,19 @@ namespace CalculadoraAula1.Modelo
     public class Controle
     {
 
-        public string num1;
-        public string num2;
-        public int metodo;
         public string mensagem;
         public string resultado;
 
-        public void excutar()
+        public void Executar(string num1, string num2, int metodo)
         {
 
             mensagem = "";
             Validacao validacao = new Validacao();
-            
-            validacao.num1 = num1;
-            validacao.num2 = num2;
-            validacao.validar();
+            validacao.Validar(num1, num2, metodo);
             if (validacao.mensagem.Equals(""))
             {
                 Calculos calculos = new Calculos();
-                calculos.n1 = validacao.n1;
-                calculos.n2 = validacao.n2;
-                calculos.metodo = metodo;
-                calculos.calcular();
-                resultado = calculos.resposta.ToString();
+                resultado = calculos.Calcular(validacao.n1, validacao.n2, metodo).ToString();
             }
             else
             {

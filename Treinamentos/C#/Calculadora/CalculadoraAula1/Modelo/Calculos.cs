@@ -8,34 +8,20 @@ namespace CalculadoraAula1.Modelo
 {
     public class Calculos
     {
-        public int n1;
-        public int n2;
-        public int resposta;
-        public int metodo;
 
-        public void calcular()
+
+        public int Calcular(int n1, int n2, int metodo)
         {
 
-            switch (metodo)
-            {
-                case 1:
-                    resposta = n1 + n2;
-                    break;
+            if (metodo.Equals(1)) return n1 + n2;
+            if (metodo.Equals(2)) return n1 - n2;
+            if (metodo.Equals(3)) return n1 / n2;
+            if (metodo.Equals(4)) return n1 * n2;
+            return 0;
 
-                case 2:
-                    resposta = n1 - n2;
-                    break;
-
-                case 3:
-                    resposta = n1 / n2;
-                    break;
-
-                case 4:
-                    resposta = n1 * n2;
-                    break;
             }
             
 
         }
     }
-}
+

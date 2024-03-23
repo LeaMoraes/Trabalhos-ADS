@@ -46,10 +46,7 @@ namespace CalculadoraAula1
         private void btnSomar_Click(object sender, EventArgs e)
         {
             Controle controle = new Controle();
-            controle.num1 = txbPrimeiroNumero.Text;
-            controle.num2 = txbSegundoNumero.Text;
-            controle.metodo = metodo;   
-            controle.excutar();
+            controle.Executar(txbPrimeiroNumero.Text, txbSegundoNumero.Text, metodo);
             
             if (controle.mensagem.Equals(""))
             {

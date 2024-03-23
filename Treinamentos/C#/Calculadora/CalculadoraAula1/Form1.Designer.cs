@@ -81,14 +81,14 @@
             btnSomar.Name = "btnSomar";
             btnSomar.Size = new Size(75, 23);
             btnSomar.TabIndex = 4;
-            btnSomar.Text = "Somar";
+            btnSomar.Text = "Igual";
             btnSomar.UseVisualStyleBackColor = true;
             btnSomar.Click += btnSomar_Click;
             // 
             // lblResultado
             // 
             lblResultado.AutoSize = true;
-            lblResultado.Location = new Point(61, 237);
+            lblResultado.Location = new Point(55, 276);
             lblResultado.Name = "lblResultado";
             lblResultado.Size = new Size(59, 15);
             lblResultado.TabIndex = 5;
@@ -98,9 +98,9 @@
             // btnMais
             // 
             btnMais.Anchor = AnchorStyles.Bottom | AnchorStyles.Left;
-            btnMais.Location = new Point(12, 269);
+            btnMais.Location = new Point(29, 214);
             btnMais.Name = "btnMais";
-            btnMais.Size = new Size(48, 48);
+            btnMais.Size = new Size(48, 23);
             btnMais.TabIndex = 6;
             btnMais.Text = "+";
             btnMais.UseVisualStyleBackColor = true;
@@ -109,9 +109,9 @@
             // btnMenos
             // 
             btnMenos.Anchor = AnchorStyles.Bottom | AnchorStyles.Left;
-            btnMenos.Location = new Point(66, 269);
+            btnMenos.Location = new Point(83, 214);
             btnMenos.Name = "btnMenos";
-            btnMenos.Size = new Size(48, 48);
+            btnMenos.Size = new Size(48, 23);
             btnMenos.TabIndex = 7;
             btnMenos.Text = "-";
             btnMenos.UseVisualStyleBackColor = true;
@@ -120,9 +120,9 @@
             // btnDividir
             // 
             btnDividir.Anchor = AnchorStyles.Bottom | AnchorStyles.Left;
-            btnDividir.Location = new Point(120, 269);
+            btnDividir.Location = new Point(137, 214);
             btnDividir.Name = "btnDividir";
-            btnDividir.Size = new Size(48, 48);
+            btnDividir.Size = new Size(48, 23);
             btnDividir.TabIndex = 8;
             btnDividir.Text = "/";
             btnDividir.UseVisualStyleBackColor = true;
@@ -131,9 +131,9 @@
             // btnMultiplicar
             // 
             btnMultiplicar.Anchor = AnchorStyles.Bottom | AnchorStyles.Left;
-            btnMultiplicar.Location = new Point(174, 269);
+            btnMultiplicar.Location = new Point(191, 214);
             btnMultiplicar.Name = "btnMultiplicar";
-            btnMultiplicar.Size = new Size(48, 48);
+            btnMultiplicar.Size = new Size(48, 23);
             btnMultiplicar.TabIndex = 9;
             btnMultiplicar.Text = "*";
             btnMultiplicar.UseVisualStyleBackColor = true;

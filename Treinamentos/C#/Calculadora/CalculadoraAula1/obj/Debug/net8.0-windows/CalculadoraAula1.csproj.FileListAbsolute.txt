@@ -14,3 +14,37 @@ C:\Users\Claudia\OneDrive\Área de Trabalho\Leandro\Orientação de Objetos\Proj
 C:\Users\Claudia\OneDrive\Área de Trabalho\Leandro\Orientação de Objetos\Projetos\CalculadoraAula1\CalculadoraAula1\obj\Debug\net8.0-windows\CalculadoraAula1.pdb
 C:\Users\Claudia\OneDrive\Área de Trabalho\Leandro\Orientação de Objetos\Projetos\CalculadoraAula1\CalculadoraAula1\obj\Debug\net8.0-windows\CalculadoraAula1.genruntimeconfig.cache
 C:\Users\Claudia\OneDrive\Área de Trabalho\Leandro\Orientação de Objetos\Projetos\CalculadoraAula1\CalculadoraAula1\obj\Debug\net8.0-windows\ref\CalculadoraAula1.dll
+C:\Users\Claudia\OneDrive\Área de Trabalho\Leandro\Repositorios GitHub\AulasNotebook\C#\Calculadora\CalculadoraAula1\bin\Debug\net8.0-windows\CalculadoraAula1.exe
+C:\Users\Claudia\OneDrive\Área de Trabalho\Leandro\Repositorios GitHub\AulasNotebook\C#\Calculadora\CalculadoraAula1\bin\Debug\net8.0-windows\CalculadoraAula1.deps.json
+C:\Users\Claudia\OneDrive\Área de Trabalho\Leandro\Repositorios GitHub\AulasNotebook\C#\Calculadora\CalculadoraAula1\bin\Debug\net8.0-windows\CalculadoraAula1.runtimeconfig.json
+C:\Users\Claudia\OneDrive\Área de Trabalho\Leandro\Repositorios GitHub\AulasNotebook\C#\Calculadora\CalculadoraAula1\bin\Debug\net8.0-windows\CalculadoraAula1.dll
+C:\Users\Claudia\OneDrive\Área de Trabalho\Leandro\Repositorios GitHub\AulasNotebook\C#\Calculadora\CalculadoraAula1\bin\Debug\net8.0-windows\CalculadoraAula1.pdb
+C:\Users\Claudia\OneDrive\Área de Trabalho\Leandro\Repositorios GitHub\AulasNotebook\C#\Calculadora\CalculadoraAula1\obj\Debug\net8.0-windows\CalculadoraAula1.Form1.resources
+C:\Users\Claudia\OneDrive\Área de Trabalho\Leandro\Repositorios GitHub\AulasNotebook\C#\Calculadora\CalculadoraAula1\obj\Debug\net8.0-windows\CalculadoraAula1.csproj.GenerateResource.cache
+C:\Users\Claudia\OneDrive\Área de Trabalho\Leandro\Repositorios GitHub\AulasNotebook\C#\Calculadora\CalculadoraAula1\obj\Debug\net8.0-windows\CalculadoraAula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudia\OneDrive\Área de Trabalho\Leandro\Repositorios GitHub\AulasNotebook\C#\Calculadora\CalculadoraAula1\obj\Debug\net8.0-windows\CalculadoraAula1.AssemblyInfoInputs.cache
+C:\Users\Claudia\OneDrive\Área de Trabalho\Leandro\Repositorios GitHub\AulasNotebook\C#\Calculadora\CalculadoraAula1\obj\Debug\net8.0-windows\CalculadoraAula1.AssemblyInfo.cs
+C:\Users\Claudia\OneDrive\Área de Trabalho\Leandro\Repositorios GitHub\AulasNotebook\C#\Calculadora\CalculadoraAula1\obj\Debug\net8.0-windows\CalculadoraAula1.csproj.CoreCompileInputs.cache
+C:\Users\Claudia\OneDrive\Área de Trabalho\Leandro\Repositorios GitHub\AulasNotebook\C#\Calculadora\CalculadoraAula1\obj\Debug\net8.0-windows\CalculadoraAula1.sourcelink.json
+C:\Users\Claudia\OneDrive\Área de Trabalho\Leandro\Repositorios GitHub\AulasNotebook\C#\Calculadora\CalculadoraAula1\obj\Debug\net8.0-windows\CalculadoraAula1.dll
+C:\Users\Claudia\OneDrive\Área de Trabalho\Leandro\Repositorios GitHub\AulasNotebook\C#\Calculadora\CalculadoraAula1\obj\Debug\net8.0-windows\refint\CalculadoraAula1.dll
+C:\Users\Claudia\OneDrive\Área de Trabalho\Leandro\Repositorios GitHub\AulasNotebook\C#\Calculadora\CalculadoraAula1\obj\Debug\net8.0-windows\CalculadoraAula1.pdb
+C:\Users\Claudia\OneDrive\Área de Trabalho\Leandro\Repositorios GitHub\AulasNotebook\C#\Calculadora\CalculadoraAula1\obj\Debug\net8.0-windows\CalculadoraAula1.genruntimeconfig.cache
+C:\Users\Claudia\OneDrive\Área de Trabalho\Leandro\Repositorios GitHub\AulasNotebook\C#\Calculadora\CalculadoraAula1\obj\Debug\net8.0-windows\ref\CalculadoraAula1.dll
+C:\Users\Rea\Documents\GitHub\Repositorios\AulasNotebook\C#\Calculadora\CalculadoraAula1\bin\Debug\net8.0-windows\CalculadoraAula1.exe
+C:\Users\Rea\Documents\GitHub\Repositorios\AulasNotebook\C#\Calculadora\CalculadoraAula1\bin\Debug\net8.0-windows\CalculadoraAula1.deps.json
+C:\Users\Rea\Documents\GitHub\Repositorios\AulasNotebook\C#\Calculadora\CalculadoraAula1\bin\Debug\net8.0-windows\CalculadoraAula1.runtimeconfig.json
+C:\Users\Rea\Documents\GitHub\Repositorios\AulasNotebook\C#\Calculadora\CalculadoraAula1\bin\Debug\net8.0-windows\CalculadoraAula1.dll
+C:\Users\Rea\Documents\GitHub\Repositorios\AulasNotebook\C#\Calculadora\CalculadoraAula1\bin\Debug\net8.0-windows\CalculadoraAula1.pdb
+C:\Users\Rea\Documents\GitHub\Repositorios\AulasNotebook\C#\Calculadora\CalculadoraAula1\obj\Debug\net8.0-windows\CalculadoraAula1.Form1.resources
+C:\Users\Rea\Documents\GitHub\Repositorios\AulasNotebook\C#\Calculadora\CalculadoraAula1\obj\Debug\net8.0-windows\CalculadoraAula1.csproj.GenerateResource.cache
+C:\Users\Rea\Documents\GitHub\Repositorios\AulasNotebook\C#\Calculadora\CalculadoraAula1\obj\Debug\net8.0-windows\CalculadoraAula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rea\Documents\GitHub\Repositorios\AulasNotebook\C#\Calculadora\CalculadoraAula1\obj\Debug\net8.0-windows\CalculadoraAula1.AssemblyInfoInputs.cache
+C:\Users\Rea\Documents\GitHub\Repositorios\AulasNotebook\C#\Calculadora\CalculadoraAula1\obj\Debug\net8.0-windows\CalculadoraAula1.AssemblyInfo.cs
+C:\Users\Rea\Documents\GitHub\Repositorios\AulasNotebook\C#\Calculadora\CalculadoraAula1\obj\Debug\net8.0-windows\CalculadoraAula1.csproj.CoreCompileInputs.cache
+C:\Users\Rea\Documents\GitHub\Repositorios\AulasNotebook\C#\Calculadora\CalculadoraAula1\obj\Debug\net8.0-windows\CalculadoraAula1.sourcelink.json
+C:\Users\Rea\Documents\GitHub\Repositorios\AulasNotebook\C#\Calculadora\CalculadoraAula1\obj\Debug\net8.0-windows\CalculadoraAula1.dll
+C:\Users\Rea\Documents\GitHub\Repositorios\AulasNotebook\C#\Calculadora\CalculadoraAula1\obj\Debug\net8.0-windows\refint\CalculadoraAula1.dll
+C:\Users\Rea\Documents\GitHub\Repositorios\AulasNotebook\C#\Calculadora\CalculadoraAula1\obj\Debug\net8.0-windows\CalculadoraAula1.pdb
+C:\Users\Rea\Documents\GitHub\Repositorios\AulasNotebook\C#\Calculadora\CalculadoraAula1\obj\Debug\net8.0-windows\CalculadoraAula1.genruntimeconfig.cache
+C:\Users\Rea\Documents\GitHub\Repositorios\AulasNotebook\C#\Calculadora\CalculadoraAula1\obj\Debug\net8.0-windows\ref\CalculadoraAula1.dll

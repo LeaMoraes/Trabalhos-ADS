@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Claudia\\OneDrive\\\u00C1rea de Trabalho\\Leandro\\Orienta\u00E7\u00E3o de Objetos\\Projetos\\CalculadoraAula1\\",
+  "WorkspaceRootPath": "C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\AulasNotebook\\C#\\Calculadora\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C0C9D88-EF58-4C05-896C-FBD1EB378E46}|CalculadoraAula1\\CalculadoraAula1.csproj|C:\\Users\\Claudia\\OneDrive\\\u00C1rea de Trabalho\\Leandro\\Orienta\u00E7\u00E3o de Objetos\\Projetos\\CalculadoraAula1\\calculadoraaula1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4C0C9D88-EF58-4C05-896C-FBD1EB378E46}|CalculadoraAula1\\CalculadoraAula1.csproj|solutionrelative:calculadoraaula1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C0C9D88-EF58-4C05-896C-FBD1EB378E46}|CalculadoraAula1\\CalculadoraAula1.csproj|C:\\Users\\Claudia\\OneDrive\\\u00C1rea de Trabalho\\Leandro\\Orienta\u00E7\u00E3o de Objetos\\Projetos\\CalculadoraAula1\\calculadoraaula1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C0C9D88-EF58-4C05-896C-FBD1EB378E46}|CalculadoraAula1\\CalculadoraAula1.csproj|solutionrelative:calculadoraaula1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C0C9D88-EF58-4C05-896C-FBD1EB378E46}|CalculadoraAula1\\CalculadoraAula1.csproj|c:\\users\\claudia\\onedrive\\\u00E1rea de trabalho\\leandro\\orienta\u00E7\u00E3o de objetos\\projetos\\calculadoraaula1\\calculadoraaula1\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C0C9D88-EF58-4C05-896C-FBD1EB378E46}|CalculadoraAula1\\CalculadoraAula1.csproj|c:\\users\\rea\\documents\\github\\repositorios\\aulasnotebook\\c#\\calculadora\\calculadoraaula1\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C0C9D88-EF58-4C05-896C-FBD1EB378E46}|CalculadoraAula1\\CalculadoraAula1.csproj|solutionrelative:calculadoraaula1\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C0C9D88-EF58-4C05-896C-FBD1EB378E46}|CalculadoraAula1\\CalculadoraAula1.csproj|C:\\Users\\Claudia\\OneDrive\\\u00C1rea de Trabalho\\Leandro\\Orienta\u00E7\u00E3o de Objetos\\Projetos\\CalculadoraAula1\\calculadoraaula1\\modelo\\calculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C0C9D88-EF58-4C05-896C-FBD1EB378E46}|CalculadoraAula1\\CalculadoraAula1.csproj|C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\AulasNotebook\\C#\\Calculadora\\calculadoraaula1\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0C9D88-EF58-4C05-896C-FBD1EB378E46}|CalculadoraAula1\\CalculadoraAula1.csproj|solutionrelative:calculadoraaula1\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0C9D88-EF58-4C05-896C-FBD1EB378E46}|CalculadoraAula1\\CalculadoraAula1.csproj|C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\AulasNotebook\\C#\\Calculadora\\calculadoraaula1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0C9D88-EF58-4C05-896C-FBD1EB378E46}|CalculadoraAula1\\CalculadoraAula1.csproj|solutionrelative:calculadoraaula1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0C9D88-EF58-4C05-896C-FBD1EB378E46}|CalculadoraAula1\\CalculadoraAula1.csproj|C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\AulasNotebook\\C#\\Calculadora\\calculadoraaula1\\modelo\\calculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C0C9D88-EF58-4C05-896C-FBD1EB378E46}|CalculadoraAula1\\CalculadoraAula1.csproj|solutionrelative:calculadoraaula1\\modelo\\calculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C0C9D88-EF58-4C05-896C-FBD1EB378E46}|CalculadoraAula1\\CalculadoraAula1.csproj|C:\\Users\\Claudia\\OneDrive\\\u00C1rea de Trabalho\\Leandro\\Orienta\u00E7\u00E3o de Objetos\\Projetos\\CalculadoraAula1\\calculadoraaula1\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C0C9D88-EF58-4C05-896C-FBD1EB378E46}|CalculadoraAula1\\CalculadoraAula1.csproj|solutionrelative:calculadoraaula1\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C0C9D88-EF58-4C05-896C-FBD1EB378E46}|CalculadoraAula1\\CalculadoraAula1.csproj|C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\AulasNotebook\\C#\\Calculadora\\calculadoraaula1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C0C9D88-EF58-4C05-896C-FBD1EB378E46}|CalculadoraAula1\\CalculadoraAula1.csproj|solutionrelative:calculadoraaula1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,15 +30,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Claudia\\OneDrive\\\u00C1rea de Trabalho\\Leandro\\Orienta\u00E7\u00E3o de Objetos\\Projetos\\CalculadoraAula1\\CalculadoraAula1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\AulasNotebook\\C#\\Calculadora\\CalculadoraAula1\\Form1.cs",
               "RelativeDocumentMoniker": "CalculadoraAula1\\Form1.cs",
-              "ToolTip": "C:\\Users\\Claudia\\OneDrive\\\u00C1rea de Trabalho\\Leandro\\Orienta\u00E7\u00E3o de Objetos\\Projetos\\CalculadoraAula1\\CalculadoraAula1\\Form1.cs [Projeto]",
+              "ToolTip": "C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\AulasNotebook\\C#\\Calculadora\\CalculadoraAula1\\Form1.cs [Projeto]",
               "RelativeToolTip": "CalculadoraAula1\\Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T22:45:12.748Z",
@@ -46,26 +46,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Claudia\\OneDrive\\\u00C1rea de Trabalho\\Leandro\\Orienta\u00E7\u00E3o de Objetos\\Projetos\\CalculadoraAula1\\CalculadoraAula1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\AulasNotebook\\C#\\Calculadora\\CalculadoraAula1\\Form1.cs",
               "RelativeDocumentMoniker": "CalculadoraAula1\\Form1.cs",
-              "ToolTip": "C:\\Users\\Claudia\\OneDrive\\\u00C1rea de Trabalho\\Leandro\\Orienta\u00E7\u00E3o de Objetos\\Projetos\\CalculadoraAula1\\CalculadoraAula1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\AulasNotebook\\C#\\Calculadora\\CalculadoraAula1\\Form1.cs",
               "RelativeToolTip": "CalculadoraAula1\\Form1.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAawDkAAAAQAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAcwC8AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T22:49:29.019Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Controle.cs",
-              "DocumentMoniker": "C:\\Users\\Claudia\\OneDrive\\\u00C1rea de Trabalho\\Leandro\\Orienta\u00E7\u00E3o de Objetos\\Projetos\\CalculadoraAula1\\CalculadoraAula1\\Modelo\\Controle.cs",
+              "DocumentMoniker": "C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\AulasNotebook\\C#\\Calculadora\\CalculadoraAula1\\Modelo\\Controle.cs",
               "RelativeDocumentMoniker": "CalculadoraAula1\\Modelo\\Controle.cs",
-              "ToolTip": "C:\\Users\\Claudia\\OneDrive\\\u00C1rea de Trabalho\\Leandro\\Orienta\u00E7\u00E3o de Objetos\\Projetos\\CalculadoraAula1\\CalculadoraAula1\\Modelo\\Controle.cs",
+              "ToolTip": "C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\AulasNotebook\\C#\\Calculadora\\CalculadoraAula1\\Modelo\\Controle.cs",
               "RelativeToolTip": "CalculadoraAula1\\Modelo\\Controle.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBYAAAAMAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T23:31:10.705Z",
               "EditorCaption": ""
@@ -74,25 +74,27 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Calculos.cs",
-              "DocumentMoniker": "C:\\Users\\Claudia\\OneDrive\\\u00C1rea de Trabalho\\Leandro\\Orienta\u00E7\u00E3o de Objetos\\Projetos\\CalculadoraAula1\\CalculadoraAula1\\Modelo\\Calculos.cs",
+              "DocumentMoniker": "C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\AulasNotebook\\C#\\Calculadora\\CalculadoraAula1\\Modelo\\Calculos.cs",
               "RelativeDocumentMoniker": "CalculadoraAula1\\Modelo\\Calculos.cs",
-              "ToolTip": "C:\\Users\\Claudia\\OneDrive\\\u00C1rea de Trabalho\\Leandro\\Orienta\u00E7\u00E3o de Objetos\\Projetos\\CalculadoraAula1\\CalculadoraAula1\\Modelo\\Calculos.cs",
+              "ToolTip": "C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\AulasNotebook\\C#\\Calculadora\\CalculadoraAula1\\Modelo\\Calculos.cs",
               "RelativeToolTip": "CalculadoraAula1\\Modelo\\Calculos.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAowBUAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T23:12:05.783Z"
+              "WhenOpened": "2024-03-15T23:12:05.783Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Validacao.cs",
-              "DocumentMoniker": "C:\\Users\\Claudia\\OneDrive\\\u00C1rea de Trabalho\\Leandro\\Orienta\u00E7\u00E3o de Objetos\\Projetos\\CalculadoraAula1\\CalculadoraAula1\\Modelo\\Validacao.cs",
+              "DocumentMoniker": "C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\AulasNotebook\\C#\\Calculadora\\CalculadoraAula1\\Modelo\\Validacao.cs",
               "RelativeDocumentMoniker": "CalculadoraAula1\\Modelo\\Validacao.cs",
-              "ToolTip": "C:\\Users\\Claudia\\OneDrive\\\u00C1rea de Trabalho\\Leandro\\Orienta\u00E7\u00E3o de Objetos\\Projetos\\CalculadoraAula1\\CalculadoraAula1\\Modelo\\Validacao.cs",
+              "ToolTip": "C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\AulasNotebook\\C#\\Calculadora\\CalculadoraAula1\\Modelo\\Validacao.cs",
               "RelativeToolTip": "CalculadoraAula1\\Modelo\\Validacao.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T23:21:11.762Z"
+              "WhenOpened": "2024-03-15T23:21:11.762Z",
+              "EditorCaption": ""
             }
           ]
         }
